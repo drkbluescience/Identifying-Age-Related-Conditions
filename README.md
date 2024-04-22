@@ -1,3 +1,2 @@
 # Identifying-Age-Related-Conditions
-
-The link to the competition is [KAGGLE](https://www.kaggle.com/competitions/icr-identify-age-related-conditions).
+Binary classification on tabular data and the link to the competition is [KAGGLE](https://www.kaggle.com/competitions/icr-identify-age-related-conditions).
